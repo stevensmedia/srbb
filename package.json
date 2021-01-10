@@ -17,6 +17,12 @@
   },
   "homepage": "https://github.com/stevensmedia/srbb#readme",
   "devDependencies": {
-    "mocha": "^8.2.1"
+    "mocha": "^8.2.1",
+    "webpack": "^5.12.3",
+    "webpack-cli": "^4.3.1"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "handlebars": "^4.7.6"
   }
 }
