@@ -1,0 +1,22 @@
+{
+  "name": "srbb",
+  "version": "1.0.0",
+  "description": "Speed Run Bulletin Board",
+  "main": "srbb.js",
+  "scripts": {
+    "test": "npx mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevensmedia/srbb.git"
+  },
+  "author": "Neil Stevens, Andrew Timothy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stevensmedia/srbb/issues"
+  },
+  "homepage": "https://github.com/stevensmedia/srbb#readme",
+  "devDependencies": {
+    "mocha": "^8.2.1"
+  }
+}
